@@ -29,6 +29,10 @@ General Place Recognition Survey: Towards the Real-world Autonomy Age
 https://github.com/MetaSLAM/GPRS  
 
 
+# 大模型方法
+AnyLoc: Towards Universal Visual Place Recognition
+https://github.com/AnyLoc/AnyLoc
+
 # 传统方法
 
 all about vlad
@@ -124,6 +128,10 @@ Instance-level Image Retrieval using Reranking Transformers
 https://github.com/uvavision/RerankingTransformer
 
 
+iccv2023 Global Features are All You Need for Image Retrieval and Reranking
+https://github.com/ShihaoShao-GH/SuperGlobal
+
+
 # 标注方式
 
 CamNet: Coarse-to-Fine Retrieval for Camera Re-Localization, ICCV 2019
@@ -145,6 +153,8 @@ https://github.com/tmadl/pySeqSLAM
 https://github.com/MetaSLAM/MRLoc
 https://github.com/subokita/OpenSeqSLAM
 https://github.com/siam1251/Fast-SeqSLAM
+
+(2019 seqslam加速)MRS-VPR: a multi-resolution sampling based global visual place recognition method
 
 
 SeqNet: Learning Descriptors for Sequence-based Hierarchical Place Recognition  
@@ -183,6 +193,14 @@ https://github.com/rulllars/SequentialVisualLocalization
 
 SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data.
 https://github.com/BIT-MJY/SeqOT
+
+
+STA-VPR: Spatio-temporal Alignment for Visual Place Recognition
+https://github.com/Lu-Feng/STA-VPR
+
+
+iccv23 Learning Sequence Descriptor based on Spatio-Temporal Attention for Visual Place Recognition
+
 
 # 全景
 PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View
