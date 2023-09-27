@@ -1,7 +1,7 @@
 
 # awesome-visual-place-recognition
 
-# tool
+# 测评工具
 
 https://github.com/gmberton/VPR-methods-evaluation
 
@@ -23,6 +23,9 @@ https://github.com/MubarizZaffar/VPR-Bench
 Deep Visual Geo-localization Benchmark
 https://github.com/gmberton/deep-visual-geo-localization-benchmark  
 
+AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift  
+https://github.com/seyrankhademi/AmsterTime
+
 
 # 综述
 General Place Recognition Survey: Towards the Real-world Autonomy Age
@@ -30,14 +33,14 @@ https://github.com/MetaSLAM/GPRS
 
 
 # 大模型方法
-AnyLoc: Towards Universal Visual Place Recognition
-https://github.com/AnyLoc/AnyLoc
+AnyLoc: Towards Universal Visual Place Recognition  
+https://github.com/AnyLoc/AnyLoc  
 
 # 传统方法
 
-all about vlad
+【2013cvpr】all about vlad  
 
-Long-Term Visual Place Recognition Benchmark with View Direction and Data Anonymization Influences
+Long-Term Visual Place Recognition Benchmark with View Direction and Data Anonymization Influences  
 https://github.com/ai4ce/NYU-VPR  
 
 # cnn-based
@@ -78,6 +81,10 @@ https://github.com/valeriopaolicelli/SegVPR
 
 StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition  
 
+
+A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition  
+
+
 # 轻量化
 
 MobileNetVLAD
@@ -101,10 +108,14 @@ Unifying Deep Local and Global Features for Image Search
 https://github.com/feymanpriv/DELG
 https://github.com/ditwoo/pytorch-delg-example
 
-DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features (ICCV 2021)https://github.com/dongkyuk/DOLG-pytorch
+DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features (ICCV 2021)  
+https://github.com/dongkyuk/DOLG-pytorch
 https://github.com/feymanpriv/DOLG
 https://github.com/feymanpriv/DOLG-paddle
 https://github.com/tanzeyy/DOLG-instance-retrieval
+
+DALG: Deep Attentive Local and Global Modeling for Image Retrieval
+
 
 # loss与采样
 
@@ -113,6 +124,8 @@ https://github.com/amaralibey/GPM
 
 
 # 排序
+[CVPR IMW 2023]Are Local Features All You Need for Cross-Domain Visual Place Recognition?  
+https://github.com/gbarbarani/re-ranking-for-VPR  
 
 Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition
 https://github.com/QVPR/Patch-NetVLAD
@@ -147,37 +160,41 @@ https://github.com/gmberton/CosPlace
 
 # 序列匹配
 
-【2012icra】SeqSLAM: Visual Route-Based Navigation for Sunny Summer Days and Stormy Winter Nights
+Fast and Memory Efficient Graph Optimization via ICM for Visual Place Recognition
+
+
+
+【2012icra】SeqSLAM: Visual Route-Based Navigation for Sunny Summer Days and Stormy Winter Nights  
 
 https://github.com/tmadl/pySeqSLAM
 https://github.com/MetaSLAM/MRLoc
 https://github.com/subokita/OpenSeqSLAM
 https://github.com/siam1251/Fast-SeqSLAM
 
-(2019 seqslam加速)MRS-VPR: a multi-resolution sampling based global visual place recognition method
+(2019 seqslam加速)MRS-VPR: a multi-resolution sampling based global visual place recognition method  
 
 
-SeqNet: Learning Descriptors for Sequence-based Hierarchical Place Recognition  
-SeqNetVLAD vs PointNetVLAD: Image Sequence vs 3D Point Clouds for Day-Night Place Recognition  
+SeqNet: Learning Descriptors for Sequence-based Hierarchical Place Recognition    
+SeqNetVLAD vs PointNetVLAD: Image Sequence vs 3D Point Clouds for Day-Night Place Recognition    
 https://github.com/oravus/seqNet
 
 
-【CoRL 2021 Oral】SeqMatchNet: Contrastive Learning with Sequence Matching for Place Recognition and Relocalization
+【CoRL 2021 Oral】SeqMatchNet: Contrastive Learning with Sequence Matching for Place Recognition and Relocalization  
 https://github.com/oravus/SeqMatchNet
 
 
 SeqVLAD
-Learning Sequential Descriptors for Sequence-based Visual Place Recognition
+Learning Sequential Descriptors for Sequence-based Visual Place Recognition  
 https://github.com/vandal-vpr/vg-transformers
 
 
-Lazy data association for image sequence matching under substantial appearance changes.
+Lazy data association for image sequence matching under substantial appearance changes.  
 https://github.com/PRBonn/online_place_recognition
 
-ICRA 2020 paper: Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations 
+ICRA 2020 paper: Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations   
 https://github.com/youjiangxu/seqvlad-pytorch
 
-Tracking‐DOSeqSLAM: A dynamic sequence‐based visual place recognition paradig
+Tracking‐DOSeqSLAM: A dynamic sequence‐based visual place recognition paradig  
 https://github.com/ktsintotas/tracking-DOSeqSLAM
 
 
@@ -195,23 +212,43 @@ SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequen
 https://github.com/BIT-MJY/SeqOT
 
 
-STA-VPR: Spatio-temporal Alignment for Visual Place Recognition
+STA-VPR: Spatio-temporal Alignment for Visual Place Recognition  
 https://github.com/Lu-Feng/STA-VPR
 
 
-iccv23 Learning Sequence Descriptor based on Spatio-Temporal Attention for Visual Place Recognition
+iccv23 Learning Sequence Descriptor based on Spatio-Temporal Attention for Visual Place Recognition  
+
+# 视角鲁棒性
+EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition  
+https: //github.com/gmberton/EigenPlaces  
+while results with any other baseline can be computed with the codebase at https://github.com/gmberton/auto_VPR  
 
 
 # 全景
-PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View
+PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View  
 https://github.com/zafirshi/PanoVPR
 
 # 交叉视角
-TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization
+TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization  
 https://github.com/Jeff-Zilence/TransGeo2022
+
+
+CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization
 
 
 
 # 域自适应
 AdAGeo: Adaptive-Attentive Geolocalization from few queries: a hybrid approach
 https://github.com/valeriopaolicelli/adageo-WACV2021  
+
+# city-wide VPR
+Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition  
+https://github.com/ga1i13o/Divide-and-Classify  
+
+# world-wide VPR
+Where in the World is this Image? Transformer-based Geo-localization in the Wild  
+https://github.com/ShramanPramanick/Transformer_Based_Geo-localization
+
+
+# 脉冲神经网络
+VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition  
