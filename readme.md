@@ -33,6 +33,12 @@ https://github.com/MetaSLAM/GPRS
 
 
 # 大模型方法
+【SOTA】DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing
+https://github.com/GaoShuang98/DINO-Mix
+
+[sota] Optimal Transport Aggregation for Visual Place Recognition
+https://github.com/serizba/salad
+
 AnyLoc: Towards Universal Visual Place Recognition  
 https://github.com/AnyLoc/AnyLoc  
 
