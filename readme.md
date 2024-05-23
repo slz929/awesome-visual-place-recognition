@@ -33,6 +33,14 @@ https://github.com/MetaSLAM/GPRS
 
 
 # 大模型方法
+
+【CVPR 2024】CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition
+https://github.com/Lu-Feng/CricaVPR
+
+【ICLR 2024】Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition
+https://github.com/Lu-Feng/SelaVPR
+
+
 【SOTA】DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing
 https://github.com/GaoShuang98/DINO-Mix
 
