@@ -1,5 +1,9 @@
 
 # awesome-visual-place-recognition
+# 榜单
+https://paperswithcode.com/task/visual-place-recognition
+![image](https://github.com/slz929/awesome-visual-place-recognition/assets/17669514/7f5948af-1d63-4e77-b61a-c0b4a74e1f2a)
+
 
 # 测评工具
 
