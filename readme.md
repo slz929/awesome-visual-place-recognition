@@ -38,6 +38,7 @@ https://github.com/MetaSLAM/GPRS
 
 # 大模型方法
 [cvpr2024][sota] BoQ: A Place is Worth a Bag of Learnable Queries [https://github.com/amaralibey/bag-of-queries]
+
 [sota]EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition
 
 【CVPR 2024】CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition
@@ -55,7 +56,7 @@ https://github.com/GaoShuang98/DINO-Mix
 https://github.com/serizba/salad
 
 AnyLoc: Towards Universal Visual Place Recognition  
-https://github.com/AnyLoc/AnyLoc  
+[https://github.com/AnyLoc/AnyLoc] 
 
 # 传统方法
 
