@@ -37,13 +37,16 @@ https://github.com/MetaSLAM/GPRS
 
 
 # 大模型方法
+[cvpr2024][sota] BoQ: A Place is Worth a Bag of Learnable Queries [https://github.com/amaralibey/bag-of-queries]
+[sota]EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition
 
 【CVPR 2024】CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition
 https://github.com/Lu-Feng/CricaVPR
 
-【ICLR 2024】Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition
+【ICLR 2024】[SelaVPR] Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition
 https://github.com/Lu-Feng/SelaVPR
 
+ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization [https://github.com/chain-mao/progeo]
 
 【SOTA】DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing
 https://github.com/GaoShuang98/DINO-Mix
